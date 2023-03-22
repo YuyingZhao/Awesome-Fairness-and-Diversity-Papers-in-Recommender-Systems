@@ -48,5 +48,6 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 ### 2.1 Property
 ### 2.2 History Preference
 ### 2.3 Spontaneous Needs
+**Selective Fairness in Recommendation via Prompts**
 ### 2.4 Multiple Interests
 
