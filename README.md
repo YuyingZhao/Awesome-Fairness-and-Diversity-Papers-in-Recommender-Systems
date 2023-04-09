@@ -23,6 +23,8 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 **Bias and Debias in Recommender Systems-A Survey and Future Direction**
 
+**Fairness in rankings and recommendations: an overview**
+
 
 ### 1.2. Surveys of Diversity
 **Diversity in Recommender Systems - A Survey.** *Kunaver, Matevž, and Tomaž Požrl.* Knowledge-based systems 2017. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705117300680)
