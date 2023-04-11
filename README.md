@@ -39,7 +39,7 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 **Recent Advances in Diversified Recommendation** *Wu, Qiong, et al.* arXiv preprint arXiv:1905.06589 (2019). [[Paper]](https://arxiv.org/pdf/1905.06589.pdf)
 
-**A Survey of Diversification Techniques in Search and Recommendation** *Wu, Haolun, et al.* arXiv preprint arXiv:2212.14464 (2022). [[Paper]](https://www.researchgate.net/profile/Fuyuan-Lyu-2/publication/366789814_A_Survey_of_Diversification_Metrics_and_Approaches_in_Retrieval_Systems_From_the_Perspective_of_Search_and_Recommendation/links/63e3f5ea6425237563996af3/A-Survey-of-Diversification-Metrics-and-Approaches-in-Retrieval-Systems-From-the-Perspective-of-Search-and-Recommendation.pdf)
+**A Survey of Diversification Techniques in Search and Recommendation** *Wu, Haolun, et al.* arXiv preprint arXiv:2212.14464 (2022). [[Paper]](https://arxiv.org/pdf/2212.14464.pdf)
 <!--- **relatively new: 2022/2023** ---> 
 
 
