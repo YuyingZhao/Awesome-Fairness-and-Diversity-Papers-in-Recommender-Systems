@@ -31,7 +31,7 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 <!--- **cite:400** ---> 
 
 
-**Diversity, Serendipity, Novelty, and Coverage: A Survey and Empirical Analysis of Beyond-Accuracy Objectives in Recommender Systems**
+**Diversity, Serendipity, Novelty, and Coverage: A Survey and Empirical Analysis of Beyond-Accuracy Objectives in Recommender Systems.** *Kaminskas, Marius, and Derek Bridge.* ACM Transactions on Interactive Intelligent Systems (TiiS) 7.1 (2016): 1-42. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2926720)
 <!--- **cite:374** ---> 
 
 **Novelty and Diversity in Recommender Systems**
