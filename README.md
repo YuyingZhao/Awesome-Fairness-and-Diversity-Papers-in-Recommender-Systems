@@ -15,15 +15,15 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 ## 1. Survey Papers
 ### 1.1 Surveys of Fairness
-**Fairness in Recommendation: A Survey**
+**Fairness in Recommendation: A Survey** *Li, Yunqi, et al.* arXiv preprint arXiv:2205.13619 (2022). [[Paper]](https://arxiv.org/pdf/2205.13619.pdf)
 
-**A Survey on the Fairness of Recommender Systems**
+**A Survey on the Fairness of Recommender Systems** *Wang, Yifan, et al* ACM Transactions on Information Systems 41.3 (2023)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3547333)
 
-**A Survey of Research on Fair Recommender Systems**
+**A Survey of Research on Fair Recommender Systems** *Deldjoo, Yashar, et al.* arXiv preprint arXiv:2205.11127 (2022). [[Paper]](https://arxiv.org/pdf/2205.11127.pdf)
 
-**Bias and Debias in Recommender Systems-A Survey and Future Direction**
+**Bias and Debias in Recommender Systems-A Survey and Future Direction** *Chen et al.* [[Paper]](https://arxiv.org/pdf/2010.03240.pdf) [[Code]](https://github.com/jiawei-chen/RecDebiasing)
 
-**Fairness in rankings and recommendations: an overview**
+**Fairness in rankings and recommendations: an overview** *Pitoura, Evaggelia, Kostas Stefanidis, and Georgia Koutrika.* The VLDB Journal (2022)[[Paper]](https://link.springer.com/article/10.1007/s00778-021-00697-y)
 
 
 ### 1.2. Surveys of Diversity
