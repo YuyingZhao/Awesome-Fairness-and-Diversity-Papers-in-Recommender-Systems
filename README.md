@@ -51,8 +51,8 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 ### 2.2 History Preference
 ### 2.3 Spontaneous Needs
 
-**Selective Fairness in Recommendation via Prompts**
+**Selective Fairness in Recommendation via Prompts** *Wu, Yiqing, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://arxiv.org/pdf/2205.04682.pdf) [[Code]](https://github.com/wyqing20/PFRec)
 
-**Towards Personalized Fairness based on Causal Notion**
+**Towards Personalized Fairness based on Causal Notion** *Li, Yunqi, et al.* Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021. [[Paper]](https://arxiv.org/pdf/2105.09829.pdf) [[Code]](https://github.com/yunqi-li/Personalized-Counterfactual-Fairness-in-Recommendation)
 ### 2.4 Multiple Interests
 
