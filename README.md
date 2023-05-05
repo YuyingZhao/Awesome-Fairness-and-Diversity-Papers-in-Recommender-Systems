@@ -47,9 +47,15 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 
 ## 2. Fairness for User Diversity
-### 2.1 Property
-### 2.2 History Preference
-### 2.3 Spontaneous Needs
+### 2.1 General Fairness - Explicit/Implict Features
+
+**Explict**
+
+**Implict**
+
+
+### 2.2 Calibration Fairness - History Preference
+### 2.3 Personalized Fairness - Spontaneous Needs
 
 **Selective Fairness in Recommendation via Prompts** *Wu, Yiqing, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://arxiv.org/pdf/2205.04682.pdf) [[Code]](https://github.com/wyqing20/PFRec)
 
