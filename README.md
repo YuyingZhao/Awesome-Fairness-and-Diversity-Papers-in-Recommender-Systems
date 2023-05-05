@@ -54,11 +54,36 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 **Implict**
 
 
-### 2.2 Calibration Fairness - History Preference
+### 2.2 Calibration-based Fairness - History Preference
+
+Calibrated Recommendation
+
+The unfairness of popularity bias in recommendation
+
+User-centered evaluation of popularity bias in recommender systems
+
+Exploiting personalized calibration and metrics for fairness recommendation
+
+rabbit holes and taste distortion: distribution-aware recommendation with evolving interests
+
 ### 2.3 Personalized Fairness - Spontaneous Needs
 
 **Selective Fairness in Recommendation via Prompts** *Wu, Yiqing, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://arxiv.org/pdf/2205.04682.pdf) [[Code]](https://github.com/wyqing20/PFRec)
 
 **Towards Personalized Fairness based on Causal Notion** *Li, Yunqi, et al.* Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462966) 
-### 2.4 Multiple Interests
 
+### 2.4 ? - Multiple Interests 
+
+Multi-interest network with dynamic routing for recommendation at Tmall
+
+Controllable multi-interest framework for recommendation
+
+PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest
+
+Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recommendation
+
+Disentangled Graph Convolutional Networks
+
+Disentangled Graph Collaborative Filtering
+
+Learning disentangled representations for recommendation
