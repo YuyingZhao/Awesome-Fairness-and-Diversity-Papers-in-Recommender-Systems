@@ -68,6 +68,8 @@ rabbit holes and taste distortion: distribution-aware recommendation with evolvi
 
 ### 2.3 Personalized Fairness - Spontaneous Needs
 
+Personalized Fairness-aware Re-ranking for Microlending
+
 **Selective Fairness in Recommendation via Prompts** *Wu, Yiqing, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://arxiv.org/pdf/2205.04682.pdf) [[Code]](https://github.com/wyqing20/PFRec)
 
 **Towards Personalized Fairness based on Causal Notion** *Li, Yunqi, et al.* Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462966) 
@@ -81,6 +83,8 @@ Controllable multi-interest framework for recommendation
 PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest
 
 Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recommendation
+
+everyone’s preference changes differently: weighted multi-interest retrieval model
 
 Disentangled Graph Convolutional Networks
 
