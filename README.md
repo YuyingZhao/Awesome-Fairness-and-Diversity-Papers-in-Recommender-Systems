@@ -74,6 +74,10 @@ Personalized Fairness-aware Re-ranking for Microlending
 
 **Towards Personalized Fairness based on Causal Notion** *Li, Yunqi, et al.* Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462966) 
 
+User-controllable Recommendation Against Filter Bubbles
+
+Controllable Universal Fair Representation Learning
+
 ### 2.4 ? - Multiple Interests 
 
 Multi-interest network with dynamic routing for recommendation at Tmall
