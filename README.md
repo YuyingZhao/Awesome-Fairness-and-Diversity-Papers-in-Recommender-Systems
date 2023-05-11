@@ -11,7 +11,7 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 	* [2.2 History Preference](#22-history-preference)
   * [2.3 Spontaneous Needs](#23-spontaneous-needs)
   * [2.4 Multiple Interests](#24-multiple-interests)
-
+* [3. Fairness for Item Diversity](#2-fairness-for-item-diversity)
 
 ## 1. Survey Papers
 ### 1.1 Surveys of Fairness
@@ -68,11 +68,15 @@ rabbit holes and taste distortion: distribution-aware recommendation with evolvi
 
 ### 2.3 Personalized Fairness - Spontaneous Needs
 
+Personalizing Fairness-aware Re-ranking
+
 Personalized Fairness-aware Re-ranking for Microlending
+
+Opportunistic Multi-aspect Fairness through Personalized Re-ranking
 
 **Selective Fairness in Recommendation via Prompts** *Wu, Yiqing, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://arxiv.org/pdf/2205.04682.pdf) [[Code]](https://github.com/wyqing20/PFRec)
 
-**Towards Personalized Fairness based on Causal Notion** *Li, Yunqi, et al.* Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462966) 
+**Towards Personalized Fairness based on Causal Notion** *Li, Yunqi, et al.* Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462966) https://github.com/yunqi-li/Personalized-Counterfactual-Fairness-in-Recommendation
 
 User-controllable Recommendation Against Filter Bubbles
 
@@ -90,8 +94,18 @@ Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recomme
 
 everyone’s preference changes differently: weighted multi-interest retrieval model
 
-Disentangled Graph Convolutional Networks
+Disentangled Graph Convolutional Networks https://github.com/JianxinMa/jianxinma.github.io/tree/master/assets
 
 Disentangled Graph Collaborative Filtering
 
 Learning disentangled representations for recommendation
+
+## 3. Fairness for Item Diversity
+
+Personalizing Fairness-aware Re-ranking
+
+Personalized fairness-aware re-ranking for microlending
+
+Opportunistic Multi-aspect Fairness through Personalized Re-ranking
+
+FA\*IR: A Fair Top-k Ranking Algorithm
