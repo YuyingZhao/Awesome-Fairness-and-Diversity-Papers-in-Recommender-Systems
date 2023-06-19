@@ -67,8 +67,7 @@ Age
 
 A fairness-aware hybrid recommender system
 
-**Implict**
-Behavior
+**Implict** (Behavior)
 
 User-oriented fairness in recommendation
 
