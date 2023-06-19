@@ -51,8 +51,23 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 **Explict**
 
-**Implict**
+Gender
+A flexible framework for evaluating user and item fairness in recommender systems
+Fairness-aware news recommendation with decomposed adversarial learning
 
+Race
+On the problem of underranking in group-fair ranking
+Fairness-aware tensor-based recommendation
+
+Age
+A fairness-aware hybrid recommender system
+
+**Implict**
+Behavior
+User-oriented fairness in recommendation
+Pareto optimality for fairness-constrained collaborative filtering
+Fairness-aware explainable recommendation over knowledge graphs
+An enhanced probabilistic fairness-aware group recommendation by incorporating social activeness
 
 ### 2.2 Calibration-based Fairness - History Preference
 
