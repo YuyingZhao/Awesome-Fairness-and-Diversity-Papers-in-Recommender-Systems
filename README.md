@@ -77,6 +77,8 @@ Fairness-aware explainable recommendation over knowledge graphs
 
 An enhanced probabilistic fairness-aware group recommendation by incorporating social activeness
 
+Are Big Recommendation Models Fair to Cold Users?
+
 ### 2.2 Calibration-based Fairness - History Preference
 
 Calibrated Recommendation
