@@ -95,44 +95,44 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 ### 2.3 Personalized Fairness - Spontaneous Needs
 
-Personalizing Fairness-aware Re-ranking
+**Personalizing Fairness-aware Re-ranking** *Liu, Weiwen, and Robin Burke.* arXiv preprint arXiv:1809.02921 (2018). [[Paper]](https://arxiv.org/pdf/1809.02921)
 
-Personalized Fairness-aware Re-ranking for Microlending
+**Personalized Fairness-aware Re-ranking for Microlending** *Liu, Weiwen, et al.* Proceedings of the 13th ACM conference on recommender systems. 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3298689.3347016?casa_token=kB1IN9zrh_0AAAAA:moT3vxWZElf9J_9pY-mGdTn45jPh_y2WAWQ-QHsgzuPMKfN2Oy5Yx5-lxbv_AOT5STzkht4P8u4sRQ)
 
-Opportunistic Multi-aspect Fairness through Personalized Re-ranking
+**Opportunistic Multi-aspect Fairness through Personalized Re-ranking** *Sonboli, Nasim, et al.*  Proceedings of the 28th ACM Conference on User Modeling, Adaptation and Personalization. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340631.3394846?casa_token=NWYqx10UGsAAAAAA:Bbrg3COCScvi_FhpLJUJ01MLXITDO7pQnVgY0Bb0fpdJduwcj5D2FM7EPdHk6vLNUTljl-FPOnrKfQ)
 
 **Selective Fairness in Recommendation via Prompts** *Wu, Yiqing, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://arxiv.org/pdf/2205.04682.pdf) [[Code]](https://github.com/wyqing20/PFRec)
 
-**Towards Personalized Fairness based on Causal Notion** *Li, Yunqi, et al.* Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462966) https://github.com/yunqi-li/Personalized-Counterfactual-Fairness-in-Recommendation
+**Towards Personalized Fairness based on Causal Notion** *Li, Yunqi, et al.* Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462966) https://github.com/yunqi-li/Personalized-Counterfactual-Fairness-in-Recommendation)
 
-User-controllable Recommendation Against Filter Bubbles
+**User-controllable Recommendation Against Filter Bubbles** *Wang, Wenjie, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532075)
 
-Controllable Universal Fair Representation Learning
+**Controllable Universal Fair Representation Learning** *Wang, Wenjie, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532075)
 
 ### 2.4 ? - Multiple Interests 
 
-Multi-interest network with dynamic routing for recommendation at Tmall
+**Multi-interest network with dynamic routing for recommendation at Tmall** *Li, Chao, et al.* Proceedings of the 28th ACM international conference on information and knowledge management. 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3357384.3357814?casa_token=uREk6h-59toAAAAA:X9bJ6PdnggtJvu761z5RKn2a54r7PDADjL9O_45JKHzqEYYd0ltjT_xVBXpqY1FwgtzytXVrFYmT9Q)
 
-Controllable multi-interest framework for recommendation
+**Controllable multi-interest framework for recommendation** *Cen, Yukuo, et al.* Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403344?casa_token=8rpBJqvuuOgAAAAA:rikPg3TfkydPVZMcpySevdklTkM2ZYCTrAqb28MTd03xoQ0op-bPugrAoXlpsfd_TnbWVZsNvjW80A)
 
-PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest
+**PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest** *Pal, Aditya, et al.*  Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280)
 
-Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recommendation
+**Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recommendation** *Zhang, Shengyu, et al.*  Proceedings of the ACM Web Conference 2022. 2022. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512094?casa_token=ahPCQNBtWt0AAAAA:dTtrdZpp7L6cQWZw9W6VfRooNJer7xku26XBRiBQ6nSMd-CMMUHOnJ-T0gpYRBLSRqlaTIwm5ocIbg)
 
-everyone’s preference changes differently: weighted multi-interest retrieval model
+**everyone’s preference changes differently: weighted multi-interest retrieval model** *Shi, Hui, et al.* (2023). [[Paper]](https://openreview.net/pdf?id=usa87QW3_r9)
 
-Disentangled Graph Convolutional Networks https://github.com/JianxinMa/jianxinma.github.io/tree/master/assets
+**Disentangled Graph Convolutional Networks** *Ma, Jianxin, et al.* International conference on machine learning. PMLR, 2019.  [[Paper]](http://proceedings.mlr.press/v97/ma19a/ma19a.pdf) [[Code]](https://github.com/JianxinMa/jianxinma.github.io/tree/master/assets)
 
-Disentangled Graph Collaborative Filtering
+**Disentangled Graph Collaborative Filtering** *Wang, Xiang, et al.*  Proceedings of the 43rd international ACM SIGIR conference on research and development in information retrieval. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401137?casa_token=dINwyDMH4vMAAAAA:gNdDV-fKHcKyhBgLpAesL-dILhZaMXGuKyGXc_CROAayAZ0pECdl5TORWuQ6CmqTYuZp1JOt-hI_Lg)
 
-Learning disentangled representations for recommendation
+**Learning disentangled representations for recommendation** *Ma, Jianxin, et al.* Advances in neural information processing systems 32 (2019). [[Paper]](https://proceedings.neurips.cc/paper/2019/file/a2186aa7c086b46ad4e8bf81e2a3a19b-Paper.pdf)
 
 ## 3. Fairness for Item Diversity
 
-Personalizing Fairness-aware Re-ranking
+**Personalizing Fairness-aware Re-ranking** *Liu, Weiwen, and Robin Burke.*  arXiv preprint arXiv:1809.02921 (2018). [[Paper]](https://arxiv.org/pdf/1809.02921)
 
-Personalized fairness-aware re-ranking for microlending
+**Personalized fairness-aware re-ranking for microlending** *Liu, Weiwen, et al.* Proceedings of the 13th ACM conference on recommender systems. 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3298689.3347016?casa_token=mUOCtZla3DsAAAAA:UMcRoBpJtb6JqpNcUSpNrSuLNpbLgrMM95jAgn2tdPzaj_znOXxpBBnByovidd6Ny-6qeCAj3mZwVQ)
 
-Opportunistic Multi-aspect Fairness through Personalized Re-ranking
+**Opportunistic Multi-aspect Fairness through Personalized Re-ranking** *Liu, Weiwen, et al.* Proceedings of the 13th ACM conference on recommender systems. 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3298689.3347016?casa_token=mUOCtZla3DsAAAAA:UMcRoBpJtb6JqpNcUSpNrSuLNpbLgrMM95jAgn2tdPzaj_znOXxpBBnByovidd6Ny-6qeCAj3mZwVQ)
 
-FA\*IR: A Fair Top-k Ranking Algorithm
+**FA\*IR: A Fair Top-k Ranking Algorithm** *Zehlike, Meike, et al.* Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. 2017. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3132847.3132938?casa_token=HszFeltg6fcAAAAA:u7PQRagejLfQ-lmimcLdfivilteCU8EVegi1GONt51JPH-wO-418PGv3jS0AArtcSX1eaPaWvdPQKw)
