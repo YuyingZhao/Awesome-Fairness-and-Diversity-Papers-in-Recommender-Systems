@@ -55,41 +55,43 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 **A flexible framework for evaluating user and item fairness in recommender systems** *Deldjoo, Yashar, et al.* User Modeling and User-Adapted Interaction (2021): 1-55. [[Paper]](https://link.springer.com/article/10.1007/s11257-020-09285-1)
 
-Fairness-aware news recommendation with decomposed adversarial learning
+**Fairness-aware news recommendation with decomposed adversarial learning** *Wu, Chuhan, et al.*  Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 5. 2021. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/16573/16380)
 
-Race
+**Race**
 
-On the problem of underranking in group-fair ranking
+**On the problem of underranking in group-fair ranking** *Gorantla, Sruthi, Amit Deshpande, and Anand Louis.* International Conference on Machine Learning. PMLR, 2021. [[Paper]](http://proceedings.mlr.press/v139/gorantla21a/gorantla21a.pdf)
 
-Fairness-aware tensor-based recommendation
+**Fairness-aware tensor-based recommendation** *Zhu, Ziwei, Xia Hu, and James Caverlee.* Proceedings of the 27th ACM international conference on information and knowledge management. 2018. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3269206.3271795)
 
-Age
+**Age**
 
-A fairness-aware hybrid recommender system
+**A fairness-aware hybrid recommender system** *Farnadi, Golnoosh, et al.* arXiv preprint arXiv:1809.09030 (2018). [[Paper]](https://arxiv.org/pdf/1809.09030.pdf)
 
 **Implict** (Behavior)
 
-User-oriented fairness in recommendation
+**User-oriented fairness in recommendation** *Li, Yunqi, et al.* Proceedings of the Web Conference 2021. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449866?casa_token=uurcaPs9hocAAAAA:V65h6auMzV3GVGssr7GhnqDl7999vezlzbkoUiJ6d6UrrEwbGbDDq9VgPCwP1UliiZr-6_-cU8ryTg)
 
-Pareto optimality for fairness-constrained collaborative filtering
+**Pareto optimality for fairness-constrained collaborative filtering** *Hao, Qianxiu, et al.* Proceedings of the 29th ACM International Conference on Multimedia. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475706?casa_token=7GUOOnyITpMAAAAA:38vE_pV20UXGSWVcCv04GOxkcZ4h3LUYVZZZiN9gcSD8pANoT1ySGuntmaDVGHz07xUDZgvzuR_hIg)
 
-Fairness-aware explainable recommendation over knowledge graphs
 
-An enhanced probabilistic fairness-aware group recommendation by incorporating social activeness
+**Fairness-aware explainable recommendation over knowledge graphs** *Fu, Zuohui, et al.*  Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2020.  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401051?casa_token=dfi05FEApgcAAAAA:xaOfJSEoDl5YU3qICIUPrujYVKHEcxnPW7D9fDR3eLBPJNoxY8bCPCCq0pFufEsH-Uk0zoejZDx9wQ)
 
-Are Big Recommendation Models Fair to Cold Users?
+
+**An enhanced probabilistic fairness-aware group recommendation by incorporating social activeness** *Xiao, Yang, et al.* Journal of Network and Computer Applications 156 (2020). [[Paper]](https://www.sciencedirect.com/science/article/pii/S1084804520300539?casa_token=YNOhzswMxQIAAAAA:NL10OCksJBXV0gulhBnGLqQHiDsTkil8nZMDGGqxojNsSbKawdqcIp8WPOpqlUDVKkMKhhngzQ)
+
+**Are Big Recommendation Models Fair to Cold Users?** *Wu, Chuhan, et al.*  arXiv preprint arXiv:2202.13607 (2022). [[Paper]](https://arxiv.org/pdf/2202.13607.pdf)
 
 ### 2.2 Calibration-based Fairness - History Preference
 
-Calibrated Recommendation
+**Calibrated Recommendation** *Steck, Harald.* Proceedings of the 12th ACM conference on recommender systems. 2018. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3240323.3240372)
 
-The unfairness of popularity bias in recommendation
+**The unfairness of popularity bias in recommendation** *Abdollahpouri, Himan, et al.* arXiv preprint arXiv:1907.13286 (2019). [[Paper]](https://arxiv.org/pdf/1907.13286)
 
-User-centered evaluation of popularity bias in recommender systems
+**User-centered evaluation of popularity bias in recommender systems** *Abdollahpouri, Himan, et al.* Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3450613.3456821)
 
-Exploiting personalized calibration and metrics for fairness recommendation
+**Exploiting personalized calibration and metrics for fairness recommendation** *da Silva, Diego Corrêa, Marcelo Garcia Manzato, and Frederico Araújo Durão.* Expert Systems with Applications 181 (2021): 115112. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417421005534?casa_token=Yxp3dMuK2CAAAAAA:9JbXjK7UJptwod_iTVYm2xBnisDLoNWBd3Kv3s4wjaEv6LiTV4JXgySoGoK8ZetRUa19F-557A)
 
-rabbit holes and taste distortion: distribution-aware recommendation with evolving interests
+**rabbit holes and taste distortion: distribution-aware recommendation with evolving interests** *Zhao, Xing, Ziwei Zhu, and James Caverlee.* Proceedings of the Web Conference 2021. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450099?casa_token=_uA3BjlJiSEAAAAA:5rYtPmYMNBxb2vVConCpOpjyc4LfQrCD4pdP3Ycup5-3num3hr2U_4fHGn2pkIne10AmflbO8IZ4ZQ)
 
 ### 2.3 Personalized Fairness - Spontaneous Needs
 
