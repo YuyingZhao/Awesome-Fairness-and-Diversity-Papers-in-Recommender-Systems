@@ -51,9 +51,9 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 **Explict**
 
-Gender
+**Gender**
 
-A flexible framework for evaluating user and item fairness in recommender systems
+**A flexible framework for evaluating user and item fairness in recommender systems** *Deldjoo, Yashar, et al.* User Modeling and User-Adapted Interaction (2021): 1-55. [[Paper]](https://link.springer.com/article/10.1007/s11257-020-09285-1)
 
 Fairness-aware news recommendation with decomposed adversarial learning
 
