@@ -113,7 +113,7 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 **Multi-interest network with dynamic routing for recommendation at Tmall** *Li, Chao, et al.* Proceedings of the 28th ACM international conference on information and knowledge management. 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3357384.3357814?casa_token=uREk6h-59toAAAAA:X9bJ6PdnggtJvu761z5RKn2a54r7PDADjL9O_45JKHzqEYYd0ltjT_xVBXpqY1FwgtzytXVrFYmT9Q)
 
-**Controllable multi-interest framework for recommendation** *Cen, Yukuo, et al.* Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403344?casa_token=8rpBJqvuuOgAAAAA:rikPg3TfkydPVZMcpySevdklTkM2ZYCTrAqb28MTd03xoQ0op-bPugrAoXlpsfd_TnbWVZsNvjW80A)
+**Controllable multi-interest framework for recommendation** *Cen, Yukuo, et al.* Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403344?casa_token=8rpBJqvuuOgAAAAA:rikPg3TfkydPVZMcpySevdklTkM2ZYCTrAqb28MTd03xoQ0op-bPugrAoXlpsfd_TnbWVZsNvjW80A) [[Code]](https://github.com/THUDM/ComiRec)
 
 **PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest** *Pal, Aditya, et al.*  Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280)
 
