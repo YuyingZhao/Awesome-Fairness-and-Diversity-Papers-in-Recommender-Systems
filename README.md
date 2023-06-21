@@ -107,7 +107,7 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 **User-controllable Recommendation Against Filter Bubbles** *Wang, Wenjie, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532075) [[Code]](https://github.com/WenjieWWJ/UCRS)
 
-**Controllable Universal Fair Representation Learning** *Wang, Wenjie, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532075)
+**Controllable Universal Fair Representation Learning** *Cui, Yue, et al.* Proceedings of the ACM Web Conference 2023. 2023. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583307?casa_token=3ZAmUecKWY0AAAAA:nsAYwC2Uanz4_rpePdpEaSbOH7ubmN8ZhFPZ-Tl23qTJiytotbixbZr3RN2Fp_eP90NeGM8VMxr7) 
 
 ### 2.4 ? - Multiple Interests 
 
