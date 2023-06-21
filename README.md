@@ -123,7 +123,7 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 **Disentangled Graph Convolutional Networks** *Ma, Jianxin, et al.* International conference on machine learning. PMLR, 2019.  [[Paper]](http://proceedings.mlr.press/v97/ma19a/ma19a.pdf) [[Code]](https://github.com/JianxinMa/jianxinma.github.io/tree/master/assets)
 
-**Disentangled Graph Collaborative Filtering** *Wang, Xiang, et al.*  Proceedings of the 43rd international ACM SIGIR conference on research and development in information retrieval. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401137?casa_token=dINwyDMH4vMAAAAA:gNdDV-fKHcKyhBgLpAesL-dILhZaMXGuKyGXc_CROAayAZ0pECdl5TORWuQ6CmqTYuZp1JOt-hI_Lg)
+**Disentangled Graph Collaborative Filtering** *Wang, Xiang, et al.*  Proceedings of the 43rd international ACM SIGIR conference on research and development in information retrieval. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401137?casa_token=dINwyDMH4vMAAAAA:gNdDV-fKHcKyhBgLpAesL-dILhZaMXGuKyGXc_CROAayAZ0pECdl5TORWuQ6CmqTYuZp1JOt-hI_Lg) [[Code]](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)
 
 **Learning disentangled representations for recommendation** *Ma, Jianxin, et al.* Advances in neural information processing systems 32 (2019). [[Paper]](https://proceedings.neurips.cc/paper/2019/file/a2186aa7c086b46ad4e8bf81e2a3a19b-Paper.pdf)
 
