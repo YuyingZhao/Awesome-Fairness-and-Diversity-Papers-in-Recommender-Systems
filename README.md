@@ -105,7 +105,7 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 **Towards Personalized Fairness based on Causal Notion** *Li, Yunqi, et al.* Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462966) [[Code]](https://github.com/yunqi-li/Personalized-Counterfactual-Fairness-in-Recommendation)
 
-**User-controllable Recommendation Against Filter Bubbles** *Wang, Wenjie, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532075)
+**User-controllable Recommendation Against Filter Bubbles** *Wang, Wenjie, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532075) [[Code]](https://github.com/WenjieWWJ/UCRS)
 
 **Controllable Universal Fair Representation Learning** *Wang, Wenjie, et al.* Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2022. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532075)
 
