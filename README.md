@@ -133,6 +133,6 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 **Personalized fairness-aware re-ranking for microlending** *Liu, Weiwen, et al.* Proceedings of the 13th ACM conference on recommender systems. 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3298689.3347016?casa_token=mUOCtZla3DsAAAAA:UMcRoBpJtb6JqpNcUSpNrSuLNpbLgrMM95jAgn2tdPzaj_znOXxpBBnByovidd6Ny-6qeCAj3mZwVQ)
 
-**Opportunistic Multi-aspect Fairness through Personalized Re-ranking** *Liu, Weiwen, et al.* Proceedings of the 13th ACM conference on recommender systems. 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3298689.3347016?casa_token=mUOCtZla3DsAAAAA:UMcRoBpJtb6JqpNcUSpNrSuLNpbLgrMM95jAgn2tdPzaj_znOXxpBBnByovidd6Ny-6qeCAj3mZwVQ)
+**Opportunistic Multi-aspect Fairness through Personalized Re-ranking** *Sonboli, Nasim, et al.*  Proceedings of the 28th ACM Conference on User Modeling, Adaptation and Personalization. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340631.3394846?casa_token=v_EY_IFkfHUAAAAA:7aTD_jgcmPLZ0_9eTzBEUzU6ozgdc-5APu9YqAL44s0gX7MjLiDAmU36khiUU2cD7hcp2aN6BLlO)
 
 **FA\*IR: A Fair Top-k Ranking Algorithm** *Zehlike, Meike, et al.* Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. 2017. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3132847.3132938?casa_token=HszFeltg6fcAAAAA:u7PQRagejLfQ-lmimcLdfivilteCU8EVegi1GONt51JPH-wO-418PGv3jS0AArtcSX1eaPaWvdPQKw)
