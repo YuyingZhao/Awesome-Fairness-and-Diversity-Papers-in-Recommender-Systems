@@ -117,7 +117,7 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 **PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest** *Pal, Aditya, et al.*  Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280)
 
-**Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recommendation** *Zhang, Shengyu, et al.*  Proceedings of the ACM Web Conference 2022. 2022. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512094?casa_token=ahPCQNBtWt0AAAAA:dTtrdZpp7L6cQWZw9W6VfRooNJer7xku26XBRiBQ6nSMd-CMMUHOnJ-T0gpYRBLSRqlaTIwm5ocIbg)
+**Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recommendation** *Zhang, Shengyu, et al.*  Proceedings of the ACM Web Conference 2022. 2022. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512094?casa_token=ahPCQNBtWt0AAAAA:dTtrdZpp7L6cQWZw9W6VfRooNJer7xku26XBRiBQ6nSMd-CMMUHOnJ-T0gpYRBLSRqlaTIwm5ocIbg)[[Code]](https://github.com/DeerSheep0314/Re4-Learning-to-Re-contrast-Re-attend-Re-construct-for-Multi-interest-Recommendation/tree/main)
 
 **everyone’s preference changes differently: weighted multi-interest retrieval model** *Shi, Hui, et al.* (2023). [[Paper]](https://openreview.net/pdf?id=usa87QW3_r9)
 
