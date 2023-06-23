@@ -13,6 +13,7 @@ This repository aims to provide comprehensive paper lists of work on fairness an
   * [2.4 Multiple Interests](#24-multiple-interests)
 * [3. Fairness for Item Diversity](#2-fairness-for-item-diversity)
 
+
 ## 1. Survey Papers
 ### 1.1 Surveys of Fairness
 **Fairness in Recommendation: A Survey** *Li, Yunqi, et al.* arXiv preprint arXiv:2205.13619 (2022). [[Paper]](https://arxiv.org/pdf/2205.13619.pdf)
@@ -46,7 +47,12 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 <!--- **Personality and Recommendation Diversity** ---> 
 
 
+
+
 ## 2. Fairness for User Diversity
+
+<img width="735" alt="Summary Table" src="https://github.com/YuyingZhao/Awesome-Fairness-and-Diversity-Papers-in-Recommender-Systems/assets/58016786/98f51a8e-415f-4adb-bc45-9b4c682bce17">
+
 ### 2.1 General Fairness - Explicit/Implict Features
 
 **Explict**
