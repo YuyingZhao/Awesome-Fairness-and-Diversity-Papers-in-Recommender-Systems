@@ -51,6 +51,7 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 
 ## 2. Fairness for User Diversity
 
+A summary table of fairness for user diversity is as follows:
 <img width="735" alt="Summary Table" src="https://github.com/YuyingZhao/Awesome-Fairness-and-Diversity-Papers-in-Recommender-Systems/assets/58016786/98f51a8e-415f-4adb-bc45-9b4c682bce17">
 
 ### 2.1 General Fairness - Explicit/Implict Features
