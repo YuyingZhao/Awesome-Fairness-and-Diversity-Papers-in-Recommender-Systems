@@ -7,11 +7,11 @@ This repository aims to provide comprehensive paper lists of work on fairness an
   * [1.1 Surveys of Fairness](#11-surveys-of-fairness)
   * [1.2 Surveys of Diversity](#12-surveys-of-diversity)
 * [2. Fairness for User Diversity](#2-fairness-for-user-diversity)
-	* [2.1 Property](#21-property)
-	* [2.2 History Preference](#22-history-preference)
-  * [2.3 Spontaneous Needs](#23-spontaneous-needs)
+  * [2.1 Explicit Implicit Features](#21-explicit-implicit-features)
+  * [2.2 Historical Preferences](#22-historical-preferences)
+  * [2.3 Fairness Requirements](#23-fairness-requirements)
   * [2.4 Multiple Interests](#24-multiple-interests)
-* [3. Fairness for Item Diversity](#2-fairness-for-item-diversity)
+* [3. Fairness for Item Diversity](#3-fairness-for-item-diversity)
 
 
 ## 1. Survey Papers
@@ -52,9 +52,10 @@ This repository aims to provide comprehensive paper lists of work on fairness an
 ## 2. Fairness for User Diversity
 
 A summary table of fairness for user diversity is as follows:
-<img width="735" alt="Summary Table" src="https://github.com/YuyingZhao/Awesome-Fairness-and-Diversity-Papers-in-Recommender-Systems/assets/58016786/98f51a8e-415f-4adb-bc45-9b4c682bce17">
+<img width="708" alt="Screen Shot 2023-06-29 at 11 36 26 AM" src="https://github.com/YuyingZhao/Awesome-Fairness-and-Diversity-Papers-in-Recommender-Systems/assets/58016786/e78c9144-59e3-4f2b-a945-7ba79d3b2320">
 
-### 2.1 General Fairness - Explicit/Implict Features
+
+### 2.1 Explicit Implicit Features
 
 **Explict**
 
@@ -88,7 +89,7 @@ A summary table of fairness for user diversity is as follows:
 
 **Are Big Recommendation Models Fair to Cold Users?** *Wu, Chuhan, et al.*  arXiv preprint arXiv:2202.13607 (2022). [[Paper]](https://arxiv.org/pdf/2202.13607.pdf)
 
-### 2.2 Calibration-based Fairness - History Preference
+### 2.2 Historical Preferences
 
 **Calibrated Recommendation** *Steck, Harald.* Proceedings of the 12th ACM conference on recommender systems. 2018. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3240323.3240372)
 
@@ -100,7 +101,7 @@ A summary table of fairness for user diversity is as follows:
 
 **rabbit holes and taste distortion: distribution-aware recommendation with evolving interests** *Zhao, Xing, Ziwei Zhu, and James Caverlee.* Proceedings of the Web Conference 2021. 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450099?casa_token=_uA3BjlJiSEAAAAA:5rYtPmYMNBxb2vVConCpOpjyc4LfQrCD4pdP3Ycup5-3num3hr2U_4fHGn2pkIne10AmflbO8IZ4ZQ)
 
-### 2.3 Personalized Fairness - Spontaneous Needs
+### 2.3 Fairness Requirements
 
 **Personalizing Fairness-aware Re-ranking** *Liu, Weiwen, and Robin Burke.* arXiv preprint arXiv:1809.02921 (2018). [[Paper]](https://arxiv.org/pdf/1809.02921)
 
@@ -116,7 +117,7 @@ A summary table of fairness for user diversity is as follows:
 
 **Controllable Universal Fair Representation Learning** *Cui, Yue, et al.* Proceedings of the ACM Web Conference 2023. 2023. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583307?casa_token=3ZAmUecKWY0AAAAA:nsAYwC2Uanz4_rpePdpEaSbOH7ubmN8ZhFPZ-Tl23qTJiytotbixbZr3RN2Fp_eP90NeGM8VMxr7) 
 
-### 2.4 ? - Multiple Interests 
+### 2.4 Multiple Interests 
 
 **Multi-interest network with dynamic routing for recommendation at Tmall** *Li, Chao, et al.* Proceedings of the 28th ACM international conference on information and knowledge management. 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3357384.3357814?casa_token=uREk6h-59toAAAAA:X9bJ6PdnggtJvu761z5RKn2a54r7PDADjL9O_45JKHzqEYYd0ltjT_xVBXpqY1FwgtzytXVrFYmT9Q)
 
